@@ -6,3 +6,4 @@ uri = URI(url)
 response = Net::HTTP.get(uri)
 JSON.parse(response)
 # NOAA Tides API info - https://api.tidesandcurrents.noaa.gov/api/prod/
+# Maybe try this gem for visuals https://www.ruby2d.com/
