@@ -5,3 +5,4 @@ url = 'https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?date=today&stat
 uri = URI(url)
 response = Net::HTTP.get(uri)
 JSON.parse(response)
+# NOAA Tides API info - https://api.tidesandcurrents.noaa.gov/api/prod/
