@@ -8,3 +8,5 @@ JSON.parse(response)
 # Current speed at West Point - https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?date=today&station=PUG1515_10&product=currents_predictions&time_zone=lst&interval=MAX_SLACK&units=english&application=DataAPI_Sample&format=xml&bin=1
 # NOAA Tides API info - https://api.tidesandcurrents.noaa.gov/api/prod/
 # Maybe try this gem for visuals https://www.ruby2d.com/
+
+# Wesport cam https://2-fss-2.themediacdn.com/pl_126/203494-1423454-1/playlist.m3u8
